@@ -2,7 +2,7 @@
 title: Embargo advanced setup
 ---
 
-## Advanced Embargo and Expirty
+## Advanced Embargo and Expiry
 
 ### Publish target by version
 The `WorkflowPublishTargetJob` supports publishing a specific (approved) version of a DataObject, however, it requires
